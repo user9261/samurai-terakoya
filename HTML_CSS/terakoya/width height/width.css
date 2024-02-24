@@ -1,0 +1,32 @@
+.parent {
+    width: 300px;
+    background-color: yellow;    
+  }
+  .child {
+    width: 150px;
+    background-color: orange;       
+  }
+  
+  
+  
+  .parent {
+    width: 100%;
+    background-color: yellow;    
+  }
+  .child {
+    width: 50%;
+    background-color: orange;       
+  }
+  
+  
+  
+  .parent {
+    width: auto;
+    background-color: yellow;    
+  }
+  .child {
+    width: 80%;
+    max-width: 600px;
+    background-color: orange;       
+  }
+  
